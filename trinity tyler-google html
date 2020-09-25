@@ -1,0 +1,9 @@
+<img src="https://www.google.com/logos/doodles/2015/googles-new-logo-5078286822539264.3-hp2x.gif" alt= "google logo">
+  <h2>Searh the web using Google</h2>
+<imput id="text">
+  <div search="mysearch">
+  <button id= "button"> Google Search</button>
+  <button id= "button"> I'm Feeling Lucky</button>
+    </div>
+  <a href= "https://www.google.com/"> More Google!</a>
+  <p>"Copyright ©1999 Google Inc."</p>
